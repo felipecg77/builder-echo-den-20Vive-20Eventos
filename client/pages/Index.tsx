@@ -12,7 +12,7 @@ export default function Index() {
       date: "15 marzo 2024",
       time: "20:00",
       location: "Centro de Convenciones",
-      image: "/api/placeholder/400/250",
+      image: "https://images.pexels.com/photos/9005448/pexels-photo-9005448.jpeg",
       price: "$45.000",
       category: "Música"
     },
@@ -22,7 +22,7 @@ export default function Index() {
       date: "22 marzo 2024", 
       time: "09:00",
       location: "Hotel Grand Plaza",
-      image: "/api/placeholder/400/250",
+      image: "https://images.pexels.com/photos/3719037/pexels-photo-3719037.jpeg",
       price: "$85.000",
       category: "Tecnología"
     },
@@ -32,7 +32,7 @@ export default function Index() {
       date: "30 marzo 2024",
       time: "21:30",
       location: "Teatro Metropolitan",
-      image: "/api/placeholder/400/250",
+      image: "https://images.pexels.com/photos/10012375/pexels-photo-10012375.jpeg",
       price: "$25.000",
       category: "Entretenimiento"
     }
