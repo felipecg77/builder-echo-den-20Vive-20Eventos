@@ -133,10 +133,10 @@ export default function Index() {
 
       {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
-        <div 
+        <div
           className="absolute inset-0 z-0"
           style={{
-            backgroundImage: 'linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url("/api/placeholder/1920/1080")',
+            backgroundImage: 'linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url("https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg")',
             backgroundSize: 'cover',
             backgroundPosition: 'center'
           }}
