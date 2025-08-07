@@ -45,7 +45,7 @@ export default function Index() {
       subtitle: "Los artistas más esperados del año",
       date: "05 abril 2024",
       location: "Estadio Nacional",
-      image: "/api/placeholder/600/400",
+      image: "https://images.pexels.com/photos/26575467/pexels-photo-26575467.jpeg",
       badge: "Destacado",
       price: "$120.000"
     },
@@ -55,7 +55,7 @@ export default function Index() {
       subtitle: "Una experiencia culinaria única",
       date: "12 abril 2024",
       location: "Parque Central",
-      image: "/api/placeholder/600/400",
+      image: "https://images.pexels.com/photos/12381102/pexels-photo-12381102.jpeg",
       badge: "Nuevo",
       price: "$35.000"
     }
