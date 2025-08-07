@@ -336,9 +336,9 @@ export default function Index() {
               </button>
             </div>
             <div className="relative">
-              <img 
-                src="/api/placeholder/600/400" 
-                alt="Organizadores" 
+              <img
+                src="https://images.pexels.com/photos/8761304/pexels-photo-8761304.jpeg"
+                alt="Organizadores"
                 className="rounded-2xl shadow-2xl"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent rounded-2xl" />
@@ -439,9 +439,9 @@ export default function Index() {
           <div className="grid md:grid-cols-3 gap-6">
             {[1, 2, 3].map((post) => (
               <div key={post} className="bg-white rounded-2xl shadow-lg overflow-hidden">
-                <img 
-                  src={`/api/placeholder/400/300`} 
-                  alt={`Post ${post}`} 
+                <img
+                  src={post === 1 ? "https://images.pexels.com/photos/2240772/pexels-photo-2240772.jpeg" : post === 2 ? "https://images.pexels.com/photos/2479946/pexels-photo-2479946.jpeg" : "https://images.pexels.com/photos/12925428/pexels-photo-12925428.jpeg"}
+                  alt={`Post ${post}`}
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
