@@ -86,12 +86,12 @@ export default function Index() {
   ];
 
   const galleryImages = [
-    "/api/placeholder/300/200",
-    "/api/placeholder/300/200",
-    "/api/placeholder/300/200",
-    "/api/placeholder/300/200",
-    "/api/placeholder/300/200",
-    "/api/placeholder/300/200"
+    "https://images.pexels.com/photos/2240772/pexels-photo-2240772.jpeg",
+    "https://images.pexels.com/photos/2479946/pexels-photo-2479946.jpeg",
+    "https://images.pexels.com/photos/12925428/pexels-photo-12925428.jpeg",
+    "https://images.pexels.com/photos/29755921/pexels-photo-29755921.jpeg",
+    "https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg",
+    "https://images.pexels.com/photos/9005448/pexels-photo-9005448.jpeg"
   ];
 
   useEffect(() => {
