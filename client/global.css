@@ -54,6 +54,12 @@
     --sidebar-border: 220 13% 91%;
 
     --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* Event platform brand colors */
+    --purple-gradient-start: 261.2 83.3% 57.8%;
+    --purple-gradient-end: 338.7 78.7% 52.4%;
+    --event-accent: 280 100% 70%;
+    --event-highlight: 45 93% 65%;
   }
 
   .dark {
