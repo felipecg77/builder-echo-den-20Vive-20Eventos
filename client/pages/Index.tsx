@@ -65,21 +65,21 @@ export default function Index() {
     {
       id: 1,
       name: "María González",
-      image: "/api/placeholder/80/80",
+      image: "https://images.pexels.com/photos/27603433/pexels-photo-27603433.jpeg",
       text: "¡Increíble experiencia! La organización fue perfecta y el ambiente estuvo espectacular. Definitivamente volveré.",
       event: "Festival de Música 2023"
     },
     {
       id: 2,
       name: "Carlos Rodríguez",
-      image: "/api/placeholder/80/80", 
+      image: "https://images.pexels.com/photos/31422830/pexels-photo-31422830.png",
       text: "Excelente plataforma para descubrir eventos. La compra de boletos fue súper fácil y rápida.",
       event: "Conferencia Tech 2023"
     },
     {
       id: 3,
       name: "Ana Martínez",
-      image: "/api/placeholder/80/80",
+      image: "https://images.pexels.com/photos/19833710/pexels-photo-19833710.jpeg",
       text: "Los eventos que he asistido han superado mis expectativas. ¡Recomiendo totalmente esta plataforma!",
       event: "Stand Up Night 2023"
     }
